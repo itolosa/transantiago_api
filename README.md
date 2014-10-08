@@ -1,4 +1,4 @@
-transantiago_api
+Transantiago API
 ================
 
 API para el transantiago. Te dice cuales son las micros que van a pasar según el paradero.
@@ -33,7 +33,7 @@ Nota: tambien puedes hacer los comandos con: python main.py xxxx
 El servidor estara en http://127.0.0.1:6969/transantiago/api?pid=PC616
 Donde pid es el id de paradero.
 
-Contibuciones
+Contribuciones
 =============
 Estas invitado a hacer fork del proyecto y cooperar para mantener y mejorar el software :D
 Hace pull-request o abre un issue cuando quieras.
